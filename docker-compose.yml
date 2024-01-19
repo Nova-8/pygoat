@@ -27,3 +27,4 @@ services:
       - .:/app
     depends_on:
       - db
+      
